@@ -1,0 +1,27 @@
+.modal{
+
+
+  color: rgb(24, 95, 2) !important;
+    background-color: rgba(15, 0, 0, 0.788);
+    margin-top: auto auto;
+    position: absolute  !important;
+    font-size: 40px !important;
+    padding: 40px !important;
+    font-weight: bold !important;
+    width: 100% !important;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+
+
+ 
+
+    
+
+
+}
+.error{
+
+color: rgb(250, 10, 10) !important;
+
+}
